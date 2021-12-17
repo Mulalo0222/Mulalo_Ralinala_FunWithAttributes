@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\bin\Debug\net5.0\FunWithAttributess.exe
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\bin\Debug\net5.0\FunWithAttributess.deps.json
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\bin\Debug\net5.0\FunWithAttributess.runtimeconfig.json
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\bin\Debug\net5.0\FunWithAttributess.runtimeconfig.dev.json
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\bin\Debug\net5.0\FunWithAttributess.dll
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\bin\Debug\net5.0\ref\FunWithAttributess.dll
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\bin\Debug\net5.0\FunWithAttributess.pdb
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.AssemblyInfo.cs
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.dll
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\ref\FunWithAttributess.dll
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.pdb
+C:\Users\User\source\repos\FunWithAttributess\FunWithAttributess\obj\Debug\net5.0\FunWithAttributess.genruntimeconfig.cache
